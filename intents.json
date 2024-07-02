@@ -1,0 +1,89 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day"],
+      "responses": ["Hey :-)", "Hello, thanks for visiting", "Hi there, what can I do for you?", "Hi there, how can I help?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": ["Which items do you have?", "What kinds of items are there?", "What do you sell?"],
+      "responses": ["We sell coffee and tea", "We have coffee and tea"]
+    },
+    {
+      "tag": "payments",
+      "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Can I pay with Paypal?", "Are you cash only?"],
+      "responses": ["We accept VISA, Mastercard and Paypal", "We accept most major credit cards, and Paypal"]
+    },
+    {
+      "tag": "delivery",
+      "patterns": ["How long does delivery take?", "How long does shipping take?", "When do I get my delivery?"],
+      "responses": ["Delivery takes 2-4 days", "Shipping takes 2-4 days"]
+    },
+    {
+      "tag": "funny",
+      "patterns": ["Tell me a joke!", "Tell me something funny!", "Do you know a joke?"],
+      "responses": ["Why did the hipster burn his mouth? He drank the coffee before it was cool.", "What did the buffalo say when his son left for college? Bison."]
+    },
+    {
+      "tag": "order_placement",
+      "patterns": ["I'd like to place an order.", "Can I order some food?", "I'm hungry, what can I get?", "How do I place an order?"],
+      "responses": ["Sure! What would you like to order?", "Great choice! What can I get for you?", "Of course! What's on your menu today?"]
+    },
+    {
+      "tag": "menu_inquiry",
+      "patterns": ["What's on the menu?", "Can you tell me what you offer?", "Do you have any specials today?", "What are my options?"],
+      "responses": ["Sure, here's our menu:", "Here are the items on our menu:", "Let me tell you about our menu options:", "We offer a variety of dishes from different cuisines. Here are some examples:\n- Indian Cuisine: Butter Chicken, Biryani, Tandoori Chicken, Paneer Tikka\n- Continental Cuisine: Spaghetti Carbonara, Grilled Salmon, Caesar Salad, Margherita Pizza"]
+    },
+    {
+      "tag": "indian_cuisine",
+      "patterns": ["I'd like to order Indian food", "Indian cuisine, please", "Can I get some Indian dishes?", "I'm in the mood for Indian food"],
+      "responses": ["Great choice! What specific Indian dishes would you like to order?"]
+    },
+    {
+      "tag": "continental_cuisine",
+      "patterns": ["I'd like to order Continental dishes", "Continental cuisine, please", "Can I get some Continental food?", "I'm craving Continental food"],
+      "responses": ["Excellent! Which Continental dishes are you interested in ordering?"]
+    },
+    {
+      "tag": "custom_order",
+      "patterns": ["I'd like to customize my order", "Can I modify my order?", "I have some special requests for my order"],
+      "responses": ["Sure thing! What modifications would you like to make to your order?"]
+    },
+    {
+      "tag": "order_confirmation",
+      "patterns": ["I'd like to confirm my order", "Confirm my order, please", "Place my order now"],
+      "responses": ["Got it! Your order has been confirmed. Is there anything else I can assist you with?"]
+    },
+    {
+      "tag": "order_cancelation",
+      "patterns": ["I want to cancel my order", "Cancel my order, please", "I changed my mind about the order"],
+      "responses": ["No problem! Your order has been canceled. Feel free to place a new order whenever you're ready."]
+    },
+    {
+      "tag": "additional_assistance",
+      "patterns": ["I need further assistance", "Can you help me with something else?", "I have another question"],
+      "responses": ["Absolutely! What else can I assist you with?"]
+    },
+    {
+      "tag": "random_selection",
+      "patterns": ["Surprise me with something!", "I'll leave it up to you!", "I'm feeling adventurous, choose for me!"],
+      "responses": ["Sure thing! Let me pick something special for you."]
+    },
+    {
+      "tag": "order_panner_tikka_butter_chicken",
+      "patterns": ["I'd like to order Paneer Tikka and Butter Chicken", "Paneer Tikka and Butter Chicken, please"],
+      "responses": ["Ok, order noted."]
+    }
+  ]
+}
