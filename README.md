@@ -10,25 +10,20 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  AIML STUDENT | FULL STACK DVELOPER | PYTHON DEVLOPER
 </p>
 
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
+      <a href="https://www.instagram.com/_labhesh.j362_/#" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2F_labhesh.j362_%2F&subtitle=_labhesh.j362_&size=square" alt="LABHESH JADHAV">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
+      <a href="https://www.linkedin.com/in/labhesh-jadhav-178928312" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com/in/labhesh-jadhav-178928312%2F&subtitle=@Labhesh+Jadhav&size=square" alt="Labhesh Jadhav">
       </a>
     </td>
    <td align="center">
@@ -52,7 +47,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+As a versatile Artificial Intelligence and Machine learning Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
