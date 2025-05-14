@@ -623,13 +623,13 @@ As a versatile Artificial Intelligence and Machine learning Engineer and Full-St
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:Labheshjadhavh3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Labheshjadhavh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:Labheshjadhavh362@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Labheshjadhavh362@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+  <a href="https://wa.me/8483990383" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8483990383&size=square" alt="India-+91-84-839-90383" style="margin: 10px;">
   </a>
 </td>
 
